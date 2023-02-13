@@ -1,0 +1,9 @@
+.ItemListDiv {
+    width: 80%;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    max-width: 90%;
+    height: auto;
+}
